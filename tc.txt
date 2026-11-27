@@ -1,0 +1,14 @@
+Test Case ID: TC001
+
+Module: Login
+
+Test Scenario: Verify login with valid credentials
+
+Steps:
+1. Open the application.
+2. Enter valid username.
+3. Enter valid password.
+4. Click Login.
+
+Expected Result:
+User should successfully log in.
